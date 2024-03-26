@@ -17,3 +17,8 @@
 <img src="/img/ss2.png" style="width: 700px; height: auto;" >
 
 </div>
+
+## ⬇️ Download
+
+Download the `.exe` file from the [releases page](https://github.com/anonfaded/windows101/releases/).
+
