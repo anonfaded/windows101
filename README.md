@@ -10,7 +10,7 @@
 
 ---
 
-## 📱 Screenshot
+## 📱 Screenshots
 
 <div align="center">
 <img src="/img/ss.png" style="width: 700px; height: auto;" >
